@@ -1,5 +1,6 @@
 .mainHeader {
     text-align: center !important;
+    margin-bottom: 20px;
 }
 
 .secondHeader {
@@ -48,4 +49,21 @@
 
   .image-container {
       margin: 10px;
+  }
+
+  .jumbo-2 {
+      margin-top: 50px;
+  }
+
+  .jumbotron-2-text {
+      line-height: 2.0;
+  }
+ 
+  .product-grid {
+      width: 100%;
+      height: 100%;
+  }
+
+  .products-grid {
+      margin: 20px;
   }
