@@ -1,0 +1,21 @@
+.mainHeader {
+    text-align: center !important;
+}
+
+.secondHeader {
+    text-align: center !important;
+}
+
+.grid {
+    width: 98%;
+    height: 100%;
+   
+}
+
+.grid-right {
+    margin-right: 1%;
+}
+
+.grid-left {
+    margin-left: 1%;
+}
