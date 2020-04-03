@@ -135,10 +135,21 @@
 
   .python-card {
       width: 90%;
+      height: 200px;
       margin: 5%;
   }
 
   
   #price {
       float: right;
+  }
+
+  .card {
+      margin-bottom: 20px;
+      
+      
+  }
+
+  .hidden {
+      display: none;
   }
