@@ -67,3 +67,56 @@
   .products-grid {
       margin: 20px;
   }
+
+  #reptile-jumbo {
+      background-image: url("images/snake.jpg");
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: -50% 160%;
+      background-size: cover;
+      color: white;
+      
+  }
+
+  #reptile-header {
+      font-size: 72px;
+  }
+
+  #fish-jumbo {
+      background-image: url("images/fish-header.jpg");
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: 100% 160%;
+      background-size: cover;
+      color: white;
+  }
+
+  #fish-header {
+      font-size: 72px;
+  }
+
+  #bird-jumbo {
+    background-image: url("images/parrots.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 75% 25%;
+    background-size: cover;
+    color: white;
+  }
+
+  #bird-header {
+      font-size: 72px;
+  }
+
+  #mammal-jumbo {
+    background-image: url("images/guinea-pig.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 50% 135%;
+    background-size: cover;
+    color: white;
+  }
+
+  #mammal-header {
+      font-size: 72px;
+  }
