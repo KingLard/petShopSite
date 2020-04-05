@@ -1,8 +1,15 @@
 .mainHeader {
     text-align: center !important;
     margin-bottom: 20px;
+
 }
 
+.main-jumbo {
+    background-image: url("images/simply-pets-banner.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+}
 .secondHeader {
     text-align: center !important;
 }
@@ -90,6 +97,7 @@
       background-position: 100% 160%;
       background-size: cover;
       color: white;
+      margin-bottom: 0;
   }
 
   #fish-header {
@@ -103,6 +111,7 @@
     background-position: 75% 25%;
     background-size: cover;
     color: white;
+    margin-bottom: 0;
   }
 
   #bird-header {

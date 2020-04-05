@@ -34,3 +34,18 @@ $("#arach-btn").on("click", function() {
     $("#arach-sec").removeClass("hidden");
     
 })
+
+$("#fresh-btn").on("click", function() {
+    $("#fresh-sec").removeClass("hidden");
+    $("#salt-sec").addClass("hidden");
+    $("#salt-btn").removeClass("active");
+    $("#fresh-btn").addClass("active");
+
+})
+
+$("#salt-btn").on("click", function() {
+    $("#fresh-sec").addClass("hidden");
+    $("#salt-sec").removeClass("hidden");
+    $("#salt-btn").addClass("active");
+    $("#fresh-btn").removeClass("active");
+})
